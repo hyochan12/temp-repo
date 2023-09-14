@@ -1,4 +1,7 @@
 This is my profile 
 
-gachon university - sorftware major 
+Author - Hyochan  Ahn
+
+gachon university - the department of sorftware 
+
 
